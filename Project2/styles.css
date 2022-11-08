@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.header {
+    color: #FFF;
+    background-color: #000000;
+    width: 1310px;
+    margin: 53px 65px 0px 65px; 
+    font-size: 40px;
+}
+.picture {
+    margin-left: 65px;
+}
+.contents {
+    width: 200px;
+    margin-left: 85px;
+    margin-top: 50px;
+    font-size: 25px;
+}
+.paragraph {
+    width: 1303px;
+    margin: 53px 72px 0px 65px;
+    font-size: 25px;
+}  
+.references {
+    margin-left: 85px;
+    margin-top: 53px;
+    font-size: 25px;
+}  
+.main-header {
+    margin-top: 96px;
+    margin-bottom: 50px;
+    font-size: 50px;
+}
+.last-paragraph {
+    margin-top: 50px;
+    margin-bottom: 91px;
+}
