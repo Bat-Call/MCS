@@ -45,13 +45,13 @@
 
   .text-container {
     width: 1440px;
-    font-family: 'Helvetica';
-    font-weight: 300;
-    font-size: 50px;
     margin: auto;
   }
 
   .text {
+    font-family: 'Helvetica';
+    font-weight: 300;
+    font-size: 50px;
     margin-top: 70px;
     margin-left: 80px;
     width: 1280px;
