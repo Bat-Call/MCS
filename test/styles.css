@@ -20,6 +20,9 @@
 .paragraph {
     margin: 53px 72px 0px 65px;
     font-size: 25px;
+    background-image: url(Talking_Heads_77.jpg);
+    background-size: cover;
+    background: linear-gradient(to right, blue, yellow 90%);
 }  
 .references {
     margin-left: 85px;
